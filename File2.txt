@@ -1,5 +1,9 @@
 Work with CR1 request
 
-change-> to check push
-change-> to test pull by teammate
-change ->to test rebase with conflict local master and remote master,this change is made by teammate for WI7
+change 1:-> to check push
+change 2:-> to test pull by teammate
+change 3:->to test rebase with conflict local master and remote master,this change is made by teammate for WI7
+
+
+
+
